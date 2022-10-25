@@ -7,6 +7,9 @@
 
 [model folder] (https://www.runoob.com)
 # RUN
+
+这是一个链接 [菜鸟教程](https://www.runoob.com)
+
 ### Step 1. Make sfs files for fsc input
 ```
 easySFS.py -i /public200T/home/heqiang/project/dadi/all_0.05_0.1.impute.vcf.gz -p pop_4.lst -a -f --proj 78,78,78,78 --prefix millet
