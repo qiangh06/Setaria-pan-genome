@@ -5,6 +5,8 @@
 
 
 ## RUN
-Step 1. 
-
+Step 1. make sfs files for fsc input
+```
+easySFS.py -i /public200T/home/heqiang/project/dadi/all_0.05_0.1.impute.vcf.gz -p pop_4.lst -a -f --proj 78,78,78,78 --prefix millet
+```
 
