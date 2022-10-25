@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- encoding: utf-8 -*-
-#@File    :   2.filter_best_30Rep.py
+#@File    :   1.combine_all_models_with_30rep.py
 #@Time    :   2022/02/25 19:19:10
 #@Contact :   qiangh@163.com
 
