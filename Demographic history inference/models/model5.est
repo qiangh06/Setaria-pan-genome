@@ -1,0 +1,22 @@
+[PARAMETERS]
+//#isInt? #name   #dist.#min  #max
+//all N are in number of haploid individuals
+1  Ce         unif     10  100000     output
+1  C1         unif     10  20000     output
+1  C2         unif     10  20000     output
+1  C3         unif     10  20000     output
+1  AN_SIZE12  unif     10  1000000    output
+1  AN_SIZE32  unif     10  1000000    output
+1  TDIV20    unif     10  13000   output
+1  TDIV12     unif     10    13000    output
+1  TDIV32     unif     10    13000    output
+0  OUTEXP     unif     0   0.5    hide
+
+[RULES]
+
+TDIV20 > TDIV32
+TDIV32 > TDIV12
+
+[COMPLEX PARAMETERS]
+1  RESIZE12 = AN_SIZE12/C2       hide
+1  RESIZE32 = AN_SIZE32/AN_SIZE12       hide

@@ -1,0 +1,23 @@
+[PARAMETERS]
+//#isInt? #name   #dist.#min  #max
+//all N are in number of haploid individuals
+1  Ce         unif     10  100000     output
+1  C1         unif     10  20000     output
+1  C2         unif     10  20000     output
+1  C3         unif     10  20000     output
+1 AN_SIZE23  unif     10  1000000    output
+0 PROPAD13 unif 1e-6 1.0       output bounded
+1  TDIV30     unif     10  13000   output
+1  TDIV23     unif     10    13000    output
+1  TADMIX13     unif     10    13000    output
+0  OUTEXP     unif     0   0.5    hide
+
+[RULES]
+
+TDIV30 > TDIV23
+TDIV23 > TADMIX13
+
+[COMPLEX PARAMETERS]
+1 RESIZE23 = AN_SIZE23/C3       hide
+1 TADMIX12 = TADMIX13+1 output
+1 PROPAD12 = 1-PROPAD13 output
