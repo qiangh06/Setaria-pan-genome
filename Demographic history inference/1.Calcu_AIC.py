@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- encoding: utf-8 -*-
-#@File    :   3.Calcu_AIC.py
+#@File    :   1.Calcu_AIC.py
 #@Time    :   2022/03/08 11:01:18
 #@Contact :   qiangh@163.com
 import math
