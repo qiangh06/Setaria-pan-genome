@@ -5,7 +5,7 @@
 The W1 represent Ce, C1 represent C3, and C3 represnt C1 in the *.tpl and *.est files in [model folder](https://github.com/qiangh06/Setaria-pan-genome/tree/main/Demographic%20history%20inference/models)
 
 # RUN
-
+[model folder](https://github.com/qiangh06/Setaria-pan-genome/tree/main/Demographic%20history%20inference/models)
 ### Step 1. Make sfs files for fsc input
 ```
 easySFS.py -i /public200T/home/heqiang/project/dadi/all_0.05_0.1.impute.vcf.gz -p pop_4.lst -a -f --proj 78,78,78,78 --prefix millet
