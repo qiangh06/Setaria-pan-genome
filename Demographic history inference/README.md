@@ -1,13 +1,12 @@
 # Fifteen schematic diagram of demographic scenarios
 
-- The W1 represent Ce, C1 represent C3, and C3 represnt C1 in the .tpl and .est files in [model folder](https://github.com/qiangh06/Setaria-pan-genome/tree/main/Demographic%20history%20inference/models)
+(*The W1 represent Ce, C1 represent C3, and C3 represnt C1 in the *.tpl and *.est files in [model folder](https://github.com/qiangh06/Setaria-pan-genome/tree/main/Demographic%20history%20inference/models))
 
 <img width="555" alt="image" src="https://user-images.githubusercontent.com/18697713/197721265-0428c2c4-d171-4fab-81b2-b643768682b4.png">
 
 
-
 # RUN
-[model folder](https://github.com/qiangh06/Setaria-pan-genome/tree/main/Demographic%20history%20inference/models)
+
 ### Step 1. Make sfs files for fsc input
 ```
 easySFS.py -i /public200T/home/heqiang/project/dadi/all_0.05_0.1.impute.vcf.gz -p pop_4.lst -a -f --proj 78,78,78,78 --prefix millet
