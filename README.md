@@ -8,6 +8,7 @@ Pipelines and relevant scripts for:
 - Demographic inference study using fastcoal2
 - Genome assembly
 - Genome annotation
+- Graph genome construction
   
 # Citation
 
