@@ -4,12 +4,12 @@ Here, we *de novo* assembled 110 representative *Setaria* accessions from a worl
 
 # Content
 Pipelines and relevant scripts for:
-- Phylogenetics
-- Demographic inference study using fastcoal2
 - Genome assembly
 - Genome annotation
 - Graph genome construction
-  
+- Phylogenetics
+- Demographic inference study using fastcoal2
+
 # Citation
 
 # Contacts
