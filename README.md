@@ -9,8 +9,10 @@ Pipelines and relevant scripts for:
 - Graph genome construction
 - Phylogenetics
 - Demographic inference study using fastcoal2
+- Population genomics and Demographic inference
 
 # Citation
 
 # Contacts
 Qiang He (qiangh@163.com)
+Ornob Alam (oa832@nyu.edu)
