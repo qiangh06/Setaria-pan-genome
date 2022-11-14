@@ -10,7 +10,7 @@ Pipelines and relevant scripts for:
 - Phylogenetics
 - Demographic inference study using fastcoal2
 - Population genomics and Demographic inference
-
+- Genomic prediction/selection
 # Citation
 
 # Contacts
