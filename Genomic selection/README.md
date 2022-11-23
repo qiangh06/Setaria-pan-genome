@@ -4,7 +4,7 @@ We release the optimal marker panel and genomic prediction model information for
 
 <br>
 
-<img width="348" alt="image" src="https://user-images.githubusercontent.com/18697713/203488185-f7ef8c3c-89eb-47db-b699-2669f600b892.png">
+<img width="448" alt="image" src="https://user-images.githubusercontent.com/18697713/203488185-f7ef8c3c-89eb-47db-b699-2669f600b892.png">
 
 
 <br>
