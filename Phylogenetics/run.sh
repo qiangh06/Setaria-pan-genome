@@ -42,3 +42,7 @@ Maximum Execution Time             = -1
 
 # 2. Population structure
 for i in {2..20}; do admixture -s time --cv /datalus/heqiang/millet/analysis/evolution/data/NGS/1844/all_0.05_0.1.bed ${i} | tee log${i}.out; done
+for i in {1..10}; do admixture -s ${i} --cv /datalus/heqiang/millet/analysis/evolution/data/NGS/1844/all_0.05_0.1.bed 7 -j20 | tee log7_${i}.out; done
+
+
+
