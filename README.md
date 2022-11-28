@@ -6,11 +6,11 @@ Here, we *de novo* assembled 110 representative *Setaria* accessions from a worl
 Pipelines and relevant scripts for:
 - Genome assembly
 - Genome annotation
+- Genomic prediction/selection
 - Graph genome construction
 - Phylogenetics
-- Demographic inference study using fastcoal2
 - Population genomics and Demographic inference
-- Genomic prediction/selection
+
 
 Data
 - 15,758 high confidence TE drived PAVs
