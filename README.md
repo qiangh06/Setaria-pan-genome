@@ -13,7 +13,7 @@ Pipelines and relevant scripts for:
 
 
 Data
-- 15,758 high confidence TE drived PAVs
+- 15,758 high confidence TE derived PAVs
 # Citation
 
 # Contacts
