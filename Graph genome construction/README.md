@@ -17,4 +17,4 @@ python 3.1.mkvcf_Vg.py
 ```
 ### Step4. make vg index
 
-注意：通过脚本合并的vcf没有vcf表头，进行vg index构建之前，需要额外添加vcf表头
+--- 注意：通过脚本合并的vcf没有vcf表头，进行vg index构建之前，需要额外添加vcf表头
